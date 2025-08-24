@@ -59,7 +59,7 @@ ul li {
             color: white;
             border-radius: 10px;
             font-weight: bold;
-            animation: colorChange 3s infinite alternate;
+            animation: colorChange 2s infinite alternate;
 
            
         }
@@ -181,5 +181,6 @@ ul li {
 
   } 
  
+
 
     
