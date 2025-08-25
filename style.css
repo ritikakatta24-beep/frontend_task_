@@ -182,7 +182,7 @@ ul li {
   } 
  .ami{
              opacity:0;
-             animation: fadeIn 3s forwards;
+             animation: fadeIn 2s forwards;
  }
 @keyframes fadeIn{
             to{
@@ -192,4 +192,5 @@ ul li {
 
 
     
+
 
