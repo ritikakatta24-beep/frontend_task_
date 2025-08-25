@@ -180,7 +180,16 @@ ul li {
     100% {transform: scale(1);}
 
   } 
- 
+ .ami{
+             opacity:0;
+             animation: fadeIn 3s forwards;
+ }
+@keyframes fadeIn{
+            to{
+                        opacity:1;
+            }
+}
 
 
     
+
