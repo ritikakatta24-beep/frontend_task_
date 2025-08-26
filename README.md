@@ -1,7 +1,7 @@
 # frontend_task_
-Texto is a website for downloading text editor in different languages.The page features a clean background with an eye catching logo. Here the main focus is on the download option for windows but it also facilitate for LINUX and MAC. While making this website I also took some reference ideas and inspiration from other websites
+Texto is a website for downloading text editor in different languages.The page features a clean background with an eye catching logo. Here the main focus is on the download option for windows but it also facilitate for LINUX and MAC. While making this website I also took some reference ideas and inspiration from other websites.Kindly open the live Project in Desktop Environment
 
-[Live Demo] ( https://ritikakatta24-beep.github.io/frontend_task_/ )
+[Live Project] ( https://ritikakatta24-beep.github.io/frontend_task_/ )
 
 
 TABLE OF CONTENT
