@@ -181,8 +181,16 @@ ul li {
 
   } 
 
-
-    
+.ami{
+    position:relative;
+    left:-100%;
+    animation: slideIn 2s forwards
+}
+@keyframes slideIn{
+    to{
+        left:0;
+    }
+}    
 
 
 
