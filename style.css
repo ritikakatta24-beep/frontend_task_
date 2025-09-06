@@ -59,16 +59,12 @@ ul li {
             color: white;
             border-radius: 10px;
             font-weight: bold;
-            animation: colorChange 2s infinite alternate;
+            
 
            
         }
-        @keyframes colorChange{
-    0% {background-color: rgb(166, 14, 146);}
-    50% {transform: scale(1.1);}
-    100% {transform: scale(1);}
-
-  } 
+        
+  
 
         .aria {
             display: flex;
@@ -170,73 +166,6 @@ ul li {
   color: rgb(242, 238, 238);         
 }
 
-  .child{
-    animation:pulse 2s infinite;
-    
-  } 
-  @keyframes pulse{
-    0% {transform: scale(1);}
-    50% {transform: scale(1.1);}
-    100% {transform: scale(1);}
+  
 
-  } 
 
-.ami{
-    position:relative;
-    left:-100%;
-    animation: slideIn 2s forwards;
-}
-@keyframes slideIn{
-    to{
-        left:0;
-    }
-}    
-
-.hero{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 80px 10%;
-    background: linear-gradient(to right,#2b5876,#4e4376);
-    color: white;
-    min-height: 80vh;
-    
-}
-.heroc{
-    max-width: 600px;
-    
-}
- .hero h1 {
-    font-size: 60px;
-    margin-bottom: 20px;
- }
- .hero p{
-     font-size: 20px;
-     margin-bottom: 30px;
-     line-height: 1.6;
- }
- .herob .btn{
-    padding: 12px 24px;
-    border-radius: 6px;
-    margin-right: 15px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: 0.3s;
- }
- .btn.primary{
-    background: lightblue;
-    color:white
- }
-.btn.secondary{
-    background: transparent;
-    border: 2px solid white;
-    color:white
-}
-.btn:hover{
-    opacity:0.8;
-}
- 
-.hero-image img{
-    width:350px;
-    border-radius: 20px;
-}
