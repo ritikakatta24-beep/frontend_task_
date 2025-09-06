@@ -156,13 +156,14 @@ ul li {
         .highlight {
             padding: 4px;
             margin: 20px;
-            border: 10px solid rgb(241, 237, 240);
+            border: 2px solid rgb(241, 237, 240);
             border-radius: 20px;
             background-color: grey;
             width: 90px;
             height: 20px;
             text-align: center;
             padding: 10px;
+            box-shadow: 0 0 1px 9px rgb(195, 192, 192);
         
 
         }
@@ -173,7 +174,9 @@ ul li {
   text-decoration: none;   
   color: rgb(242, 238, 238);         
 }
-
+.hello{
+    font-size: 50px;
+}
   
 
 
