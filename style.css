@@ -1,3 +1,11 @@
+body{
+    margin: 0;
+    padding:0;
+}
+nav{
+    border: 2px solid grey;
+    background-color: grey;
+}
 ul li {
             list-style: none;
             font-size: 20px;
