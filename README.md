@@ -31,7 +31,7 @@ a-Download Texto for Windows
 
 b-Introductory Message("Download and try Texto before you buy it!")
 
-c-Download for Mac and Linux *( have used CSS animation here with ColorChange)*
+c-Download for Mac and Linux 
 
 
 
@@ -40,7 +40,7 @@ c-Download for Mac and Linux *( have used CSS animation here with ColorChange)*
 Version Details
 
 
-4-DOWNLOAD OPTIONS BY LANGUAGE *(have used CSS animation here (Pulse) )*
+4-DOWNLOAD OPTIONS BY LANGUAGE
 
 a-English
 
